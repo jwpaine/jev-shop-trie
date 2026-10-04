@@ -1,0 +1,2 @@
+{"id": "gift_picks", "title": "Gift picks under $60",
+ "node": {"type": "card", "children": [{"type": "heading", "level": 3, "text": "Gift picks under $60"}, {"type": "products", "select": "gifts", "limit": 3}]}}

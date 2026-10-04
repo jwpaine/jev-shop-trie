@@ -1,0 +1,49 @@
+{
+  "type": "page",
+  "title": "Shop Trie \u00b7 Northwoods Outfitters",
+  "children": [
+    {
+      "type": "topbar",
+      "title": "Shop Trie",
+      "subtitle": "Every shopper's path through a 100-product store grows one live tree, with how each visit ended."
+    },
+    {
+      "type": "stats"
+    },
+    {
+      "type": "ask",
+      "placeholder": "Ask anything, e.g. a warm gift for my dad who ice fishes, under $80",
+      "hint": "Jev scores every route that ended in a purchase from where you are; the best fit wins, ties go to the most shoppers."
+    },
+    {
+      "type": "columns",
+      "children": [
+        {
+          "type": "column",
+          "width": "side",
+          "children": [
+            {
+              "type": "storefront"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "width": "main",
+          "children": [
+            {
+              "type": "slot",
+              "name": "modules"
+            },
+            {
+              "type": "trie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "debug"
+    }
+  ]
+}

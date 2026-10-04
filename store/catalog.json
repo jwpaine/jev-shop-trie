@@ -1,0 +1,1615 @@
+{
+ "store": "Northwoods Outfitters",
+ "categories": [
+  "Footwear",
+  "Outerwear",
+  "Fleece & Sweaters",
+  "Shirts & Tees",
+  "Packs & Bags",
+  "Camp & Hike",
+  "Home & Blankets",
+  "Accessories"
+ ],
+ "products": [
+  {
+   "id": "p001",
+   "name": "Lakeshore Men's Chukka Boot",
+   "category": "Footwear",
+   "type": "boot",
+   "color": "Charcoal",
+   "hex": "#3d4045",
+   "price": 71.32,
+   "rating": 4.3,
+   "reviews": 22344,
+   "blurb": "Seam-sealed and lugged for slush, mud and the walk to the mailbox.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B08K5LCZ7H"
+   }
+  },
+  {
+   "id": "p002",
+   "name": "Cedar Women's Waterproof Hiking Boot",
+   "category": "Footwear",
+   "type": "boot",
+   "color": "Sky",
+   "hex": "#6f9fc9",
+   "price": 75.0,
+   "rating": 4.7,
+   "reviews": 17645,
+   "blurb": "Seam-sealed and lugged for slush, mud and the walk to the mailbox.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0BYMB3JMJ"
+   }
+  },
+  {
+   "id": "p003",
+   "name": "Tamarack Men's Work Boot",
+   "category": "Footwear",
+   "type": "boot",
+   "color": "Sky",
+   "hex": "#6f9fc9",
+   "price": 56.99,
+   "rating": 4.4,
+   "reviews": 15192,
+   "blurb": "Seam-sealed and lugged for slush, mud and the walk to the mailbox.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B08KYGD5RL"
+   }
+  },
+  {
+   "id": "p004",
+   "name": "Highland Men's Work Boot",
+   "category": "Footwear",
+   "type": "boot",
+   "color": "Burgundy",
+   "hex": "#6e2433",
+   "price": 61.29,
+   "rating": 4.5,
+   "reviews": 14622,
+   "blurb": "Seam-sealed and lugged for slush, mud and the walk to the mailbox.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B08JSDVT61"
+   }
+  },
+  {
+   "id": "p005",
+   "name": "Ironwood Women's Insulated Winter Boot",
+   "category": "Footwear",
+   "type": "boot",
+   "color": "Forest",
+   "hex": "#2f5d46",
+   "price": 69.99,
+   "rating": 4.6,
+   "reviews": 12392,
+   "blurb": "Seam-sealed and lugged for slush, mud and the walk to the mailbox.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B01MTYA675"
+   }
+  },
+  {
+   "id": "p006",
+   "name": "Saltmarsh Waterproof Hiking Boot",
+   "category": "Footwear",
+   "type": "boot",
+   "color": "Burgundy",
+   "hex": "#6e2433",
+   "price": 42.99,
+   "rating": 4.4,
+   "reviews": 11605,
+   "blurb": "Seam-sealed and lugged for slush, mud and the walk to the mailbox.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B097P2T6WR"
+   }
+  },
+  {
+   "id": "p007",
+   "name": "Basin Women's Camp Slipper",
+   "category": "Footwear",
+   "type": "moccasin",
+   "color": "Burgundy",
+   "hex": "#6e2433",
+   "price": 49.95,
+   "rating": 4.6,
+   "reviews": 48513,
+   "blurb": "Soft suede and a cozy lining, with a sole sturdy enough for the porch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B093T7CCCF"
+   }
+  },
+  {
+   "id": "p008",
+   "name": "Windward Women's Camp Slipper",
+   "category": "Footwear",
+   "type": "moccasin",
+   "color": "Slate",
+   "hex": "#5a6f80",
+   "price": 77.99,
+   "rating": 4.6,
+   "reviews": 34087,
+   "blurb": "Soft suede and a cozy lining, with a sole sturdy enough for the porch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0BQ9JNWM8"
+   }
+  },
+  {
+   "id": "p009",
+   "name": "Northstar Women's Camp Slipper",
+   "category": "Footwear",
+   "type": "moccasin",
+   "color": "Forest",
+   "hex": "#2f5d46",
+   "price": 24.99,
+   "rating": 4.5,
+   "reviews": 29313,
+   "blurb": "Soft suede and a cozy lining, with a sole sturdy enough for the porch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07RTV9GFN"
+   }
+  },
+  {
+   "id": "p010",
+   "name": "Larchmont Men's Shearling Moccasin",
+   "category": "Footwear",
+   "type": "moccasin",
+   "color": "Charcoal",
+   "hex": "#3d4045",
+   "price": 31.99,
+   "rating": 4.4,
+   "reviews": 24569,
+   "blurb": "Soft suede and a cozy lining, with a sole sturdy enough for the porch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07WPBBJBF"
+   }
+  },
+  {
+   "id": "p011",
+   "name": "Driftwood Men's Trail Runner",
+   "category": "Footwear",
+   "type": "sneaker",
+   "color": "Forest",
+   "hex": "#2f5d46",
+   "price": 86.83,
+   "rating": 4.6,
+   "reviews": 22056,
+   "blurb": "Light, grippy and ready for the trail the day you get them.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07QL3TX6V"
+   }
+  },
+  {
+   "id": "p012",
+   "name": "Black Spruce Men's Trail Runner",
+   "category": "Footwear",
+   "type": "sneaker",
+   "color": "Mustard",
+   "hex": "#c9a03a",
+   "price": 52.95,
+   "rating": 4.5,
+   "reviews": 8738,
+   "blurb": "Light, grippy and ready for the trail the day you get them.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07DNFLYFD"
+   }
+  },
+  {
+   "id": "p013",
+   "name": "Harbor Men's Hiking Shoe",
+   "category": "Footwear",
+   "type": "sneaker",
+   "color": "Rust",
+   "hex": "#b5532f",
+   "price": 84.95,
+   "rating": 4.6,
+   "reviews": 7855,
+   "blurb": "Light, grippy and ready for the trail the day you get them.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B08QHC268Q"
+   }
+  },
+  {
+   "id": "p014",
+   "name": "Ridgeline Men's Rain Jacket",
+   "category": "Outerwear",
+   "type": "jacket",
+   "color": "Tan",
+   "hex": "#b8956a",
+   "price": 69.97,
+   "rating": 4.6,
+   "reviews": 17862,
+   "blurb": "Built to block wind and weather without the bulk.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B00NHO4WCS"
+   }
+  },
+  {
+   "id": "p015",
+   "name": "Summit Women's Rain Jacket",
+   "category": "Outerwear",
+   "type": "jacket",
+   "color": "Slate",
+   "hex": "#5a6f80",
+   "price": 69.98,
+   "rating": 4.6,
+   "reviews": 12596,
+   "blurb": "Built to block wind and weather without the bulk.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07SBNTS3G"
+   }
+  },
+  {
+   "id": "p016",
+   "name": "Kettle Pond Men's Puffer Jacket",
+   "category": "Outerwear",
+   "type": "jacket",
+   "color": "Rust",
+   "hex": "#b5532f",
+   "price": 79.99,
+   "rating": 4.6,
+   "reviews": 9265,
+   "blurb": "Built to block wind and weather without the bulk.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B08CN92TGM"
+   }
+  },
+  {
+   "id": "p017",
+   "name": "Granite Women's Rain Jacket",
+   "category": "Outerwear",
+   "type": "jacket",
+   "color": "Mustard",
+   "hex": "#c9a03a",
+   "price": 62.5,
+   "rating": 4.6,
+   "reviews": 7461,
+   "blurb": "Built to block wind and weather without the bulk.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07KMXCN2P"
+   }
+  },
+  {
+   "id": "p018",
+   "name": "Trailhead Men's Down Jacket",
+   "category": "Outerwear",
+   "type": "jacket",
+   "color": "Navy",
+   "hex": "#273b5c",
+   "price": 96.0,
+   "rating": 4.5,
+   "reviews": 6809,
+   "blurb": "Built to block wind and weather without the bulk.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0975HVYKQ"
+   }
+  },
+  {
+   "id": "p019",
+   "name": "Cold Brook Men's Rain Jacket",
+   "category": "Outerwear",
+   "type": "jacket",
+   "color": "Burgundy",
+   "hex": "#6e2433",
+   "price": 64.99,
+   "rating": 4.6,
+   "reviews": 6665,
+   "blurb": "Built to block wind and weather without the bulk.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B08GH59Q21"
+   }
+  },
+  {
+   "id": "p020",
+   "name": "Timberline Parka",
+   "category": "Outerwear",
+   "type": "jacket",
+   "color": "Tan",
+   "hex": "#b8956a",
+   "price": 75.98,
+   "rating": 4.0,
+   "reviews": 4762,
+   "blurb": "Built to block wind and weather without the bulk.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07TZGFPZR"
+   }
+  },
+  {
+   "id": "p021",
+   "name": "Fieldstone Women's Rain Jacket",
+   "category": "Outerwear",
+   "type": "jacket",
+   "color": "Mustard",
+   "hex": "#c9a03a",
+   "price": 54.99,
+   "rating": 4.5,
+   "reviews": 4740,
+   "blurb": "Built to block wind and weather without the bulk.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B08G1FH3WN"
+   }
+  },
+  {
+   "id": "p022",
+   "name": "Pine Hollow Rain Jacket",
+   "category": "Outerwear",
+   "type": "jacket",
+   "color": "Sky",
+   "hex": "#6f9fc9",
+   "price": 56.99,
+   "rating": 4.4,
+   "reviews": 3910,
+   "blurb": "Built to block wind and weather without the bulk.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09KNDNHPN"
+   }
+  },
+  {
+   "id": "p023",
+   "name": "Birch Run Women's Quilted Vest",
+   "category": "Outerwear",
+   "type": "vest",
+   "color": "Rust",
+   "hex": "#b5532f",
+   "price": 47.5,
+   "rating": 4.4,
+   "reviews": 12071,
+   "blurb": "Core warmth that layers under a shell or over a flannel.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0738HBKK1"
+   }
+  },
+  {
+   "id": "p024",
+   "name": "Boundary Women's Quilted Vest",
+   "category": "Outerwear",
+   "type": "vest",
+   "color": "Navy",
+   "hex": "#273b5c",
+   "price": 31.99,
+   "rating": 4.4,
+   "reviews": 10159,
+   "blurb": "Core warmth that layers under a shell or over a flannel.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B099ZPBWZ5"
+   }
+  },
+  {
+   "id": "p025",
+   "name": "Lakeshore Women's Quilted Vest",
+   "category": "Outerwear",
+   "type": "vest",
+   "color": "Burgundy",
+   "hex": "#6e2433",
+   "price": 36.97,
+   "rating": 4.5,
+   "reviews": 5311,
+   "blurb": "Core warmth that layers under a shell or over a flannel.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09MD35LVK"
+   }
+  },
+  {
+   "id": "p026",
+   "name": "Cedar Men's Fleece Vest",
+   "category": "Outerwear",
+   "type": "vest",
+   "color": "Burgundy",
+   "hex": "#6e2433",
+   "price": 36.98,
+   "rating": 4.3,
+   "reviews": 2806,
+   "blurb": "Core warmth that layers under a shell or over a flannel.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07GRLZBNG"
+   }
+  },
+  {
+   "id": "p027",
+   "name": "Tamarack Women's Wool Sweater",
+   "category": "Fleece & Sweaters",
+   "type": "pullover",
+   "color": "Sky",
+   "hex": "#6f9fc9",
+   "price": 45.99,
+   "rating": 4.5,
+   "reviews": 22791,
+   "blurb": "The layer you reach for first, from fall mornings to ski lodges.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07H3M9MWT"
+   }
+  },
+  {
+   "id": "p028",
+   "name": "Highland Quarter-Zip Fleece",
+   "category": "Fleece & Sweaters",
+   "type": "pullover",
+   "color": "Charcoal",
+   "hex": "#3d4045",
+   "price": 33.99,
+   "rating": 4.3,
+   "reviews": 8364,
+   "blurb": "The layer you reach for first, from fall mornings to ski lodges.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07FZJ949L"
+   }
+  },
+  {
+   "id": "p029",
+   "name": "Ironwood Men's Fleece Pullover",
+   "category": "Fleece & Sweaters",
+   "type": "pullover",
+   "color": "Moss",
+   "hex": "#6b7a3a",
+   "price": 31.0,
+   "rating": 4.7,
+   "reviews": 5749,
+   "blurb": "The layer you reach for first, from fall mornings to ski lodges.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07CN51N7W"
+   }
+  },
+  {
+   "id": "p030",
+   "name": "Saltmarsh Men's Fleece Pullover",
+   "category": "Fleece & Sweaters",
+   "type": "pullover",
+   "color": "Navy",
+   "hex": "#273b5c",
+   "price": 61.05,
+   "rating": 4.7,
+   "reviews": 4363,
+   "blurb": "The layer you reach for first, from fall mornings to ski lodges.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0C3XTY48T"
+   }
+  },
+  {
+   "id": "p031",
+   "name": "Basin Women's Wool Sweater",
+   "category": "Fleece & Sweaters",
+   "type": "pullover",
+   "color": "Mustard",
+   "hex": "#c9a03a",
+   "price": 52.59,
+   "rating": 4.3,
+   "reviews": 4093,
+   "blurb": "The layer you reach for first, from fall mornings to ski lodges.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07H1WXRDT"
+   }
+  },
+  {
+   "id": "p032",
+   "name": "Windward Men's Quarter-Zip Fleece",
+   "category": "Fleece & Sweaters",
+   "type": "pullover",
+   "color": "Navy",
+   "hex": "#273b5c",
+   "price": 34.98,
+   "rating": 4.4,
+   "reviews": 3997,
+   "blurb": "The layer you reach for first, from fall mornings to ski lodges.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B082R65R5X"
+   }
+  },
+  {
+   "id": "p033",
+   "name": "Northstar Women's Fleece Pullover",
+   "category": "Fleece & Sweaters",
+   "type": "pullover",
+   "color": "Burgundy",
+   "hex": "#6e2433",
+   "price": 69.99,
+   "rating": 4.3,
+   "reviews": 3591,
+   "blurb": "The layer you reach for first, from fall mornings to ski lodges.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07N3RT1XN"
+   }
+  },
+  {
+   "id": "p034",
+   "name": "Larchmont Women's Wool Sweater",
+   "category": "Fleece & Sweaters",
+   "type": "pullover",
+   "color": "Forest",
+   "hex": "#2f5d46",
+   "price": 36.99,
+   "rating": 4.3,
+   "reviews": 2400,
+   "blurb": "The layer you reach for first, from fall mornings to ski lodges.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0BK8244LY"
+   }
+  },
+  {
+   "id": "p035",
+   "name": "Driftwood Women's Fleece Pullover",
+   "category": "Fleece & Sweaters",
+   "type": "pullover",
+   "color": "Burgundy",
+   "hex": "#6e2433",
+   "price": 32.99,
+   "rating": 4.3,
+   "reviews": 2051,
+   "blurb": "The layer you reach for first, from fall mornings to ski lodges.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B00RGE0ZN0"
+   }
+  },
+  {
+   "id": "p036",
+   "name": "Black Spruce Men's Fleece Pullover",
+   "category": "Fleece & Sweaters",
+   "type": "pullover",
+   "color": "Charcoal",
+   "hex": "#3d4045",
+   "price": 39.99,
+   "rating": 4.4,
+   "reviews": 1164,
+   "blurb": "The layer you reach for first, from fall mornings to ski lodges.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0914GJ2PD"
+   }
+  },
+  {
+   "id": "p037",
+   "name": "Harbor Women's Fleece Pullover",
+   "category": "Fleece & Sweaters",
+   "type": "pullover",
+   "color": "Cream",
+   "hex": "#e3d6bb",
+   "price": 44.99,
+   "rating": 4.3,
+   "reviews": 1127,
+   "blurb": "The layer you reach for first, from fall mornings to ski lodges.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B014JQQU9A"
+   }
+  },
+  {
+   "id": "p038",
+   "name": "Ridgeline Men's Flannel Shirt",
+   "category": "Shirts & Tees",
+   "type": "shirt",
+   "color": "Burgundy",
+   "hex": "#6e2433",
+   "price": 28.5,
+   "rating": 4.6,
+   "reviews": 48200,
+   "blurb": "Brushed for softness and cut roomy enough to layer.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B098ZNVPBL"
+   }
+  },
+  {
+   "id": "p039",
+   "name": "Summit Women's Shirt Jacket",
+   "category": "Shirts & Tees",
+   "type": "shirt",
+   "color": "Red Plaid",
+   "hex": "#a8322d",
+   "price": 44.99,
+   "rating": 4.1,
+   "reviews": 27281,
+   "blurb": "Brushed for softness and cut roomy enough to layer.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B08NT3LX6Z"
+   }
+  },
+  {
+   "id": "p040",
+   "name": "Kettle Pond Men's Shirt Jacket",
+   "category": "Shirts & Tees",
+   "type": "shirt",
+   "color": "Slate",
+   "hex": "#5a6f80",
+   "price": 29.99,
+   "rating": 4.7,
+   "reviews": 22849,
+   "blurb": "Brushed for softness and cut roomy enough to layer.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09J22Q1JM"
+   }
+  },
+  {
+   "id": "p041",
+   "name": "Granite Men's Flannel Shirt",
+   "category": "Shirts & Tees",
+   "type": "shirt",
+   "color": "Moss",
+   "hex": "#6b7a3a",
+   "price": 33.98,
+   "rating": 4.6,
+   "reviews": 19821,
+   "blurb": "Brushed for softness and cut roomy enough to layer.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B081PZ86ZT"
+   }
+  },
+  {
+   "id": "p042",
+   "name": "Trailhead Plaid Button-Down",
+   "category": "Shirts & Tees",
+   "type": "shirt",
+   "color": "Cream",
+   "hex": "#e3d6bb",
+   "price": 40.99,
+   "rating": 4.5,
+   "reviews": 14139,
+   "blurb": "Brushed for softness and cut roomy enough to layer.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07JJT1XWW"
+   }
+  },
+  {
+   "id": "p043",
+   "name": "Cold Brook Women's Shirt Jacket",
+   "category": "Shirts & Tees",
+   "type": "shirt",
+   "color": "Mustard",
+   "hex": "#c9a03a",
+   "price": 29.99,
+   "rating": 4.4,
+   "reviews": 9945,
+   "blurb": "Brushed for softness and cut roomy enough to layer.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09HC3TWXY"
+   }
+  },
+  {
+   "id": "p044",
+   "name": "Timberline Women's Plaid Button-Down",
+   "category": "Shirts & Tees",
+   "type": "shirt",
+   "color": "Cream",
+   "hex": "#e3d6bb",
+   "price": 26.99,
+   "rating": 4.2,
+   "reviews": 9920,
+   "blurb": "Brushed for softness and cut roomy enough to layer.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0948VKZGK"
+   }
+  },
+  {
+   "id": "p045",
+   "name": "Fieldstone Women's Flannel Shirt",
+   "category": "Shirts & Tees",
+   "type": "shirt",
+   "color": "Moss",
+   "hex": "#6b7a3a",
+   "price": 35.89,
+   "rating": 4.4,
+   "reviews": 8311,
+   "blurb": "Brushed for softness and cut roomy enough to layer.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0B428ZV41"
+   }
+  },
+  {
+   "id": "p046",
+   "name": "Pine Hollow Men's Waffle Henley",
+   "category": "Shirts & Tees",
+   "type": "tee",
+   "color": "Tan",
+   "hex": "#b8956a",
+   "price": 14.0,
+   "rating": 4.5,
+   "reviews": 83116,
+   "blurb": "Heavyweight cotton that gets better every wash.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0C2D3BMC8"
+   }
+  },
+  {
+   "id": "p047",
+   "name": "Birch Run Men's Heritage Tee",
+   "category": "Shirts & Tees",
+   "type": "tee",
+   "color": "Charcoal",
+   "hex": "#3d4045",
+   "price": 18.75,
+   "rating": 4.5,
+   "reviews": 81541,
+   "blurb": "Heavyweight cotton that gets better every wash.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B091F4LQWS"
+   }
+  },
+  {
+   "id": "p048",
+   "name": "Boundary Heritage Tee",
+   "category": "Shirts & Tees",
+   "type": "tee",
+   "color": "Rust",
+   "hex": "#b5532f",
+   "price": 14.99,
+   "rating": 4.5,
+   "reviews": 79605,
+   "blurb": "Heavyweight cotton that gets better every wash.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B08YDWZ3C3"
+   }
+  },
+  {
+   "id": "p049",
+   "name": "Lakeshore Women's Heritage Tee",
+   "category": "Shirts & Tees",
+   "type": "tee",
+   "color": "Charcoal",
+   "hex": "#3d4045",
+   "price": 28.5,
+   "rating": 4.4,
+   "reviews": 45028,
+   "blurb": "Heavyweight cotton that gets better every wash.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0BPMQY64S"
+   }
+  },
+  {
+   "id": "p050",
+   "name": "Cedar Men's Pocket Tee",
+   "category": "Shirts & Tees",
+   "type": "tee",
+   "color": "Navy",
+   "hex": "#273b5c",
+   "price": 24.99,
+   "rating": 4.7,
+   "reviews": 42733,
+   "blurb": "Heavyweight cotton that gets better every wash.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B002G9U8VE"
+   }
+  },
+  {
+   "id": "p051",
+   "name": "Tamarack Hiking Pack",
+   "category": "Packs & Bags",
+   "type": "backpack",
+   "color": "Burgundy",
+   "hex": "#6e2433",
+   "price": 31.99,
+   "rating": 4.7,
+   "reviews": 7514,
+   "blurb": "Padded straps, plenty of pockets, room for a full day out.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B093P4WJJJ"
+   }
+  },
+  {
+   "id": "p052",
+   "name": "Highland Daypack",
+   "category": "Packs & Bags",
+   "type": "backpack",
+   "color": "Tan",
+   "hex": "#b8956a",
+   "price": 32.99,
+   "rating": 4.5,
+   "reviews": 6451,
+   "blurb": "Padded straps, plenty of pockets, room for a full day out.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09W5GD1JT"
+   }
+  },
+  {
+   "id": "p053",
+   "name": "Ironwood Hiking Pack",
+   "category": "Packs & Bags",
+   "type": "backpack",
+   "color": "Mustard",
+   "hex": "#c9a03a",
+   "price": 39.99,
+   "rating": 4.7,
+   "reviews": 6149,
+   "blurb": "Padded straps, plenty of pockets, room for a full day out.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0B352N5TQ"
+   }
+  },
+  {
+   "id": "p054",
+   "name": "Saltmarsh Daypack",
+   "category": "Packs & Bags",
+   "type": "backpack",
+   "color": "Cream",
+   "hex": "#e3d6bb",
+   "price": 33.99,
+   "rating": 4.6,
+   "reviews": 5411,
+   "blurb": "Padded straps, plenty of pockets, room for a full day out.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0B5N6MYVB"
+   }
+  },
+  {
+   "id": "p055",
+   "name": "Basin Hiking Pack",
+   "category": "Packs & Bags",
+   "type": "backpack",
+   "color": "Moss",
+   "hex": "#6b7a3a",
+   "price": 32.99,
+   "rating": 4.5,
+   "reviews": 4085,
+   "blurb": "Padded straps, plenty of pockets, room for a full day out.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B087G8S3M8"
+   }
+  },
+  {
+   "id": "p056",
+   "name": "Windward Daypack",
+   "category": "Packs & Bags",
+   "type": "backpack",
+   "color": "Cream",
+   "hex": "#e3d6bb",
+   "price": 36.99,
+   "rating": 4.6,
+   "reviews": 3458,
+   "blurb": "Padded straps, plenty of pockets, room for a full day out.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B098J52GBX"
+   }
+  },
+  {
+   "id": "p057",
+   "name": "Northstar Daypack",
+   "category": "Packs & Bags",
+   "type": "backpack",
+   "color": "Tan",
+   "hex": "#b8956a",
+   "price": 39.99,
+   "rating": 4.4,
+   "reviews": 2846,
+   "blurb": "Padded straps, plenty of pockets, room for a full day out.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0C4PFCQN1"
+   }
+  },
+  {
+   "id": "p058",
+   "name": "Larchmont Canvas Tote",
+   "category": "Packs & Bags",
+   "type": "tote",
+   "color": "Burgundy",
+   "hex": "#6e2433",
+   "price": 31.19,
+   "rating": 4.4,
+   "reviews": 35332,
+   "blurb": "Tough canvas that hauls groceries, gear and firewood alike.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0C2C9462Q"
+   }
+  },
+  {
+   "id": "p059",
+   "name": "Driftwood Canvas Tote",
+   "category": "Packs & Bags",
+   "type": "tote",
+   "color": "Navy",
+   "hex": "#273b5c",
+   "price": 28.99,
+   "rating": 4.6,
+   "reviews": 15852,
+   "blurb": "Tough canvas that hauls groceries, gear and firewood alike.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09ZJ6K3R5"
+   }
+  },
+  {
+   "id": "p060",
+   "name": "Black Spruce Canvas Tote",
+   "category": "Packs & Bags",
+   "type": "tote",
+   "color": "Navy",
+   "hex": "#273b5c",
+   "price": 38.99,
+   "rating": 4.3,
+   "reviews": 6533,
+   "blurb": "Tough canvas that hauls groceries, gear and firewood alike.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0832WYCX1"
+   }
+  },
+  {
+   "id": "p061",
+   "name": "Harbor Weekender",
+   "category": "Packs & Bags",
+   "type": "tote",
+   "color": "Mustard",
+   "hex": "#c9a03a",
+   "price": 49.99,
+   "rating": 4.7,
+   "reviews": 6122,
+   "blurb": "Tough canvas that hauls groceries, gear and firewood alike.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B00LJKJZ7O"
+   }
+  },
+  {
+   "id": "p062",
+   "name": "Ridgeline Duffle Bag",
+   "category": "Packs & Bags",
+   "type": "tote",
+   "color": "Slate",
+   "hex": "#5a6f80",
+   "price": 79.95,
+   "rating": 4.7,
+   "reviews": 5947,
+   "blurb": "Tough canvas that hauls groceries, gear and firewood alike.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0BLJRFH1H"
+   }
+  },
+  {
+   "id": "p063",
+   "name": "Summit Dome Tent",
+   "category": "Camp & Hike",
+   "type": "tent",
+   "color": "Rust",
+   "hex": "#b5532f",
+   "price": 109.99,
+   "rating": 4.7,
+   "reviews": 3739,
+   "blurb": "Quick to pitch, steady in the wind, roomy enough to wait out rain.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09W4W9JB5"
+   }
+  },
+  {
+   "id": "p064",
+   "name": "Kettle Pond Dome Tent",
+   "category": "Camp & Hike",
+   "type": "tent",
+   "color": "Moss",
+   "hex": "#6b7a3a",
+   "price": 64.2,
+   "rating": 4.5,
+   "reviews": 2367,
+   "blurb": "Quick to pitch, steady in the wind, roomy enough to wait out rain.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07DVLXYVP"
+   }
+  },
+  {
+   "id": "p065",
+   "name": "Granite Cabin Tent",
+   "category": "Camp & Hike",
+   "type": "tent",
+   "color": "Rust",
+   "hex": "#b5532f",
+   "price": 139.99,
+   "rating": 4.3,
+   "reviews": 1653,
+   "blurb": "Quick to pitch, steady in the wind, roomy enough to wait out rain.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07QPFN7V4"
+   }
+  },
+  {
+   "id": "p066",
+   "name": "Trailhead Dome Tent",
+   "category": "Camp & Hike",
+   "type": "tent",
+   "color": "Cream",
+   "hex": "#e3d6bb",
+   "price": 129.9,
+   "rating": 4.4,
+   "reviews": 1469,
+   "blurb": "Quick to pitch, steady in the wind, roomy enough to wait out rain.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B092RC38KJ"
+   }
+  },
+  {
+   "id": "p067",
+   "name": "Cold Brook 3-Season Sleeping Bag",
+   "category": "Camp & Hike",
+   "type": "sleeping",
+   "color": "Slate",
+   "hex": "#5a6f80",
+   "price": 85.79,
+   "rating": 4.8,
+   "reviews": 2168,
+   "blurb": "Warm, packable and rated for shoulder-season nights.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B00363V3M2"
+   }
+  },
+  {
+   "id": "p068",
+   "name": "Timberline Mummy Sleeping Bag",
+   "category": "Camp & Hike",
+   "type": "sleeping",
+   "color": "Forest",
+   "hex": "#2f5d46",
+   "price": 46.99,
+   "rating": 4.4,
+   "reviews": 2056,
+   "blurb": "Warm, packable and rated for shoulder-season nights.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0B127T4CM"
+   }
+  },
+  {
+   "id": "p069",
+   "name": "Fieldstone 3-Season Sleeping Bag",
+   "category": "Camp & Hike",
+   "type": "sleeping",
+   "color": "Sky",
+   "hex": "#6f9fc9",
+   "price": 55.99,
+   "rating": 4.3,
+   "reviews": 1377,
+   "blurb": "Warm, packable and rated for shoulder-season nights.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0124W821U"
+   }
+  },
+  {
+   "id": "p070",
+   "name": "Pine Hollow Rechargeable Lantern",
+   "category": "Camp & Hike",
+   "type": "lantern",
+   "color": "Navy",
+   "hex": "#273b5c",
+   "price": 22.98,
+   "rating": 4.5,
+   "reviews": 7177,
+   "blurb": "Bright, even light for camp, the cabin or a power outage.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0BVFBQ4RX"
+   }
+  },
+  {
+   "id": "p071",
+   "name": "Birch Run Rechargeable Lantern",
+   "category": "Camp & Hike",
+   "type": "lantern",
+   "color": "Mustard",
+   "hex": "#c9a03a",
+   "price": 33.99,
+   "rating": 4.6,
+   "reviews": 4067,
+   "blurb": "Bright, even light for camp, the cabin or a power outage.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B08PCZFRSB"
+   }
+  },
+  {
+   "id": "p072",
+   "name": "Boundary LED Camp Lantern",
+   "category": "Camp & Hike",
+   "type": "lantern",
+   "color": "Burgundy",
+   "hex": "#6e2433",
+   "price": 44.99,
+   "rating": 4.6,
+   "reviews": 1957,
+   "blurb": "Bright, even light for camp, the cabin or a power outage.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09WDK9X3L"
+   }
+  },
+  {
+   "id": "p073",
+   "name": "Lakeshore LED Camp Lantern",
+   "category": "Camp & Hike",
+   "type": "lantern",
+   "color": "Moss",
+   "hex": "#6b7a3a",
+   "price": 32.99,
+   "rating": 4.6,
+   "reviews": 1791,
+   "blurb": "Bright, even light for camp, the cabin or a power outage.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B082XWZZTQ"
+   }
+  },
+  {
+   "id": "p074",
+   "name": "Cedar Camp Chair",
+   "category": "Camp & Hike",
+   "type": "chair",
+   "color": "Moss",
+   "hex": "#6b7a3a",
+   "price": 49.0,
+   "rating": 4.5,
+   "reviews": 5303,
+   "blurb": "Folds flat, sets up fast, and is comfier than the log.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07WD5X5FF"
+   }
+  },
+  {
+   "id": "p075",
+   "name": "Tamarack Camp Chair",
+   "category": "Camp & Hike",
+   "type": "chair",
+   "color": "Moss",
+   "hex": "#6b7a3a",
+   "price": 55.57,
+   "rating": 4.7,
+   "reviews": 2001,
+   "blurb": "Folds flat, sets up fast, and is comfier than the log.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09S39XJ52"
+   }
+  },
+  {
+   "id": "p076",
+   "name": "Highland Camp Chair",
+   "category": "Camp & Hike",
+   "type": "chair",
+   "color": "Burgundy",
+   "hex": "#6e2433",
+   "price": 59.99,
+   "rating": 4.5,
+   "reviews": 1347,
+   "blurb": "Folds flat, sets up fast, and is comfier than the log.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B092V5JRMB"
+   }
+  },
+  {
+   "id": "p077",
+   "name": "Ironwood Fleece Throw",
+   "category": "Home & Blankets",
+   "type": "blanket",
+   "color": "Cream",
+   "hex": "#e3d6bb",
+   "price": 34.99,
+   "rating": 4.7,
+   "reviews": 11799,
+   "blurb": "Warm enough for the cabin, soft enough for the couch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B01LW4COZL"
+   }
+  },
+  {
+   "id": "p078",
+   "name": "Saltmarsh Sherpa Throw",
+   "category": "Home & Blankets",
+   "type": "blanket",
+   "color": "Mustard",
+   "hex": "#c9a03a",
+   "price": 42.99,
+   "rating": 4.8,
+   "reviews": 9843,
+   "blurb": "Warm enough for the cabin, soft enough for the couch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0841WCG39"
+   }
+  },
+  {
+   "id": "p079",
+   "name": "Basin Patchwork Quilt",
+   "category": "Home & Blankets",
+   "type": "blanket",
+   "color": "Cream",
+   "hex": "#e3d6bb",
+   "price": 55.99,
+   "rating": 4.5,
+   "reviews": 9375,
+   "blurb": "Warm enough for the cabin, soft enough for the couch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B08DXYYPHT"
+   }
+  },
+  {
+   "id": "p080",
+   "name": "Windward Fleece Throw",
+   "category": "Home & Blankets",
+   "type": "blanket",
+   "color": "Navy",
+   "hex": "#273b5c",
+   "price": 32.99,
+   "rating": 4.5,
+   "reviews": 4782,
+   "blurb": "Warm enough for the cabin, soft enough for the couch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07D36Q3Z7"
+   }
+  },
+  {
+   "id": "p081",
+   "name": "Northstar Patchwork Quilt",
+   "category": "Home & Blankets",
+   "type": "blanket",
+   "color": "Navy",
+   "hex": "#273b5c",
+   "price": 39.99,
+   "rating": 4.5,
+   "reviews": 3791,
+   "blurb": "Warm enough for the cabin, soft enough for the couch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B091BXHF5P"
+   }
+  },
+  {
+   "id": "p082",
+   "name": "Larchmont Patchwork Quilt",
+   "category": "Home & Blankets",
+   "type": "blanket",
+   "color": "Tan",
+   "hex": "#b8956a",
+   "price": 61.24,
+   "rating": 4.4,
+   "reviews": 3521,
+   "blurb": "Warm enough for the cabin, soft enough for the couch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09JL56NDH"
+   }
+  },
+  {
+   "id": "p083",
+   "name": "Driftwood Sherpa Throw",
+   "category": "Home & Blankets",
+   "type": "blanket",
+   "color": "Cream",
+   "hex": "#e3d6bb",
+   "price": 54.99,
+   "rating": 4.6,
+   "reviews": 3493,
+   "blurb": "Warm enough for the cabin, soft enough for the couch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B08FTPY5D5"
+   }
+  },
+  {
+   "id": "p084",
+   "name": "Black Spruce Fleece Throw",
+   "category": "Home & Blankets",
+   "type": "blanket",
+   "color": "Sky",
+   "hex": "#6f9fc9",
+   "price": 33.99,
+   "rating": 4.5,
+   "reviews": 2317,
+   "blurb": "Warm enough for the cabin, soft enough for the couch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07JZ24BY4"
+   }
+  },
+  {
+   "id": "p085",
+   "name": "Harbor Insulated Travel Mug",
+   "category": "Home & Blankets",
+   "type": "mug",
+   "color": "Sky",
+   "hex": "#6f9fc9",
+   "price": 28.99,
+   "rating": 4.8,
+   "reviews": 35869,
+   "blurb": "For coffee at the campsite or cocoa on the porch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0BL9R9KFZ"
+   }
+  },
+  {
+   "id": "p086",
+   "name": "Ridgeline Insulated Travel Mug",
+   "category": "Home & Blankets",
+   "type": "mug",
+   "color": "Navy",
+   "hex": "#273b5c",
+   "price": 39.99,
+   "rating": 4.7,
+   "reviews": 31724,
+   "blurb": "For coffee at the campsite or cocoa on the porch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09MQ3FCML"
+   }
+  },
+  {
+   "id": "p087",
+   "name": "Summit Stoneware Mug",
+   "category": "Home & Blankets",
+   "type": "mug",
+   "color": "Forest",
+   "hex": "#2f5d46",
+   "price": 13.49,
+   "rating": 4.7,
+   "reviews": 18386,
+   "blurb": "For coffee at the campsite or cocoa on the porch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09L626MHB"
+   }
+  },
+  {
+   "id": "p088",
+   "name": "Kettle Pond Insulated Travel Mug",
+   "category": "Home & Blankets",
+   "type": "mug",
+   "color": "Tan",
+   "hex": "#b8956a",
+   "price": 16.99,
+   "rating": 4.5,
+   "reviews": 12678,
+   "blurb": "For coffee at the campsite or cocoa on the porch.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0C4VWCZRV"
+   }
+  },
+  {
+   "id": "p089",
+   "name": "Granite Ribbed Beanie",
+   "category": "Accessories",
+   "type": "beanie",
+   "color": "Sky",
+   "hex": "#6f9fc9",
+   "price": 17.99,
+   "rating": 4.4,
+   "reviews": 28776,
+   "blurb": "Rib-knit warmth that stays put in the wind.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07JDFWXLJ"
+   }
+  },
+  {
+   "id": "p090",
+   "name": "Trailhead Men's Ribbed Beanie",
+   "category": "Accessories",
+   "type": "beanie",
+   "color": "Burgundy",
+   "hex": "#6e2433",
+   "price": 36.74,
+   "rating": 4.7,
+   "reviews": 26650,
+   "blurb": "Rib-knit warmth that stays put in the wind.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B002G9U38W"
+   }
+  },
+  {
+   "id": "p091",
+   "name": "Cold Brook Ribbed Beanie",
+   "category": "Accessories",
+   "type": "beanie",
+   "color": "Sky",
+   "hex": "#6f9fc9",
+   "price": 14.99,
+   "rating": 4.7,
+   "reviews": 19398,
+   "blurb": "Rib-knit warmth that stays put in the wind.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B01N7W1AH5"
+   }
+  },
+  {
+   "id": "p092",
+   "name": "Timberline Women's Ribbed Beanie",
+   "category": "Accessories",
+   "type": "beanie",
+   "color": "Cream",
+   "hex": "#e3d6bb",
+   "price": 11.95,
+   "rating": 4.6,
+   "reviews": 14940,
+   "blurb": "Rib-knit warmth that stays put in the wind.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07CN27LLV"
+   }
+  },
+  {
+   "id": "p093",
+   "name": "Fieldstone Women's Ribbed Beanie",
+   "category": "Accessories",
+   "type": "beanie",
+   "color": "Tan",
+   "hex": "#b8956a",
+   "price": 16.99,
+   "rating": 4.7,
+   "reviews": 10924,
+   "blurb": "Rib-knit warmth that stays put in the wind.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B01MUGZAKL"
+   }
+  },
+  {
+   "id": "p094",
+   "name": "Pine Hollow Leather Gloves",
+   "category": "Accessories",
+   "type": "gloves",
+   "color": "Slate",
+   "hex": "#5a6f80",
+   "price": 21.98,
+   "rating": 4.3,
+   "reviews": 13815,
+   "blurb": "Warm hands for shoveling, skating and everything in between.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09KZXQHSH"
+   }
+  },
+  {
+   "id": "p095",
+   "name": "Birch Run Women's Leather Gloves",
+   "category": "Accessories",
+   "type": "gloves",
+   "color": "Sky",
+   "hex": "#6f9fc9",
+   "price": 19.99,
+   "rating": 4.4,
+   "reviews": 8801,
+   "blurb": "Warm hands for shoveling, skating and everything in between.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0917LM54G"
+   }
+  },
+  {
+   "id": "p096",
+   "name": "Boundary Men's Leather Gloves",
+   "category": "Accessories",
+   "type": "gloves",
+   "color": "Moss",
+   "hex": "#6b7a3a",
+   "price": 26.99,
+   "rating": 4.6,
+   "reviews": 6407,
+   "blurb": "Warm hands for shoveling, skating and everything in between.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B07C5M7TG4"
+   }
+  },
+  {
+   "id": "p097",
+   "name": "Lakeshore Insulated Bottle",
+   "category": "Accessories",
+   "type": "bottle",
+   "color": "Forest",
+   "hex": "#2f5d46",
+   "price": 25.0,
+   "rating": 4.7,
+   "reviews": 47810,
+   "blurb": "Keeps drinks cold all day or hot through the morning.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0BS5TP2X3"
+   }
+  },
+  {
+   "id": "p098",
+   "name": "Cedar Insulated Bottle",
+   "category": "Accessories",
+   "type": "bottle",
+   "color": "Cream",
+   "hex": "#e3d6bb",
+   "price": 18.72,
+   "rating": 4.3,
+   "reviews": 32018,
+   "blurb": "Keeps drinks cold all day or hot through the morning.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09LZV87M7"
+   }
+  },
+  {
+   "id": "p099",
+   "name": "Tamarack Insulated Bottle",
+   "category": "Accessories",
+   "type": "bottle",
+   "color": "Moss",
+   "hex": "#6b7a3a",
+   "price": 21.97,
+   "rating": 4.7,
+   "reviews": 24108,
+   "blurb": "Keeps drinks cold all day or hot through the morning.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B0BTD9Y5HT"
+   }
+  },
+  {
+   "id": "p100",
+   "name": "Highland Insulated Bottle",
+   "category": "Accessories",
+   "type": "bottle",
+   "color": "Rust",
+   "hex": "#b5532f",
+   "price": 25.55,
+   "rating": 4.8,
+   "reviews": 23934,
+   "blurb": "Keeps drinks cold all day or hot through the morning.",
+   "source": {
+    "dataset": "Amazon Reviews 2023 (McAuley Lab)",
+    "parent_asin": "B09PGRZ6NH"
+   }
+  }
+ ]
+}

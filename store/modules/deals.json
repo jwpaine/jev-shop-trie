@@ -1,0 +1,2 @@
+{"id": "deals", "title": "Under $30",
+ "node": {"type": "card", "children": [{"type": "heading", "level": 3, "text": "Under $30"}, {"type": "products", "select": "deals", "limit": 3}]}}

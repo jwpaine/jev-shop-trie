@@ -1,0 +1,2 @@
+{"id": "compare", "title": "Compare top-rated",
+ "node": {"type": "card", "children": [{"type": "heading", "level": 3, "text": "Compare top-rated"}, {"type": "products", "select": "compare", "limit": 3}]}}

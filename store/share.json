@@ -1,0 +1,7 @@
+{
+  "type": "share",
+  "title": "Shop Trie · share card",
+  "children": [
+    {"type": "share_trie"}
+  ]
+}

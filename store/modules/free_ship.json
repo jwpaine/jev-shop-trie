@@ -1,0 +1,2 @@
+{"id": "free_ship", "title": "Free shipping over $50, today",
+ "node": {"type": "card", "children": [{"type": "heading", "level": 3, "text": "Free shipping over $50, today"}, {"type": "products", "select": "path_buys", "limit": 3}]}}

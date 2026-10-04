@@ -1,0 +1,2 @@
+{"id": "path_buys", "title": "Shoppers on your path bought",
+ "node": {"type": "card", "children": [{"type": "heading", "level": 3, "text": "Shoppers on your path bought"}, {"type": "products", "select": "path_buys", "limit": 3}]}}

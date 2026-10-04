@@ -1,0 +1,2 @@
+{"id": "popular", "title": "Popular across the store",
+ "node": {"type": "card", "children": [{"type": "heading", "level": 3, "text": "Popular across the store"}, {"type": "products", "select": "popular", "limit": 3}]}}
